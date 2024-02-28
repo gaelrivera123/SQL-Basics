@@ -1,4 +1,4 @@
 # SQL Basics
     Guide to the basics of SQL
 
-<b>What is SQL</b>
+<h2>What is SQL?</h2>
